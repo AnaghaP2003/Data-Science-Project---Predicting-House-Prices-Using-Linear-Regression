@@ -4,10 +4,12 @@ Project Title: Predicting House Prices Using Linear Regression.
 What the Project Does:
 This project builds a predictive model using linear regression to estimate house prices based on key features such as house size (in square feet) and the number of bedrooms. The model provides a useful tool for making informed decisions in real estate by accurately predicting the market value of a house based on its features.
 
-Why the Project is Useful:
+Why the Project is Useful?
+
 Real estate buyers and sellers can use this model to gain insights into the likely price of a house based on its characteristics. By leveraging the relationship between the size of the house, the number of bedrooms, and its price, the model aids in estimating fair market prices, thereby improving decision-making in property transactions.
 
-How Users Can Get Started with the Project:
+How Users Can Get Started with the Project?
+
 1. Prerequisites: Ensure you have Python installed, along with the following packages:
 
    -NumPy
