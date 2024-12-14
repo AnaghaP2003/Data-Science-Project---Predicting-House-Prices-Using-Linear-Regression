@@ -1,4 +1,4 @@
-# Data-Science-Project---Predicting-House-Prices-Using-Linear-Regression
+# Data Science Project: Predicting House Prices Using Linear Regression
 Project Title: Predicting House Prices Using Linear Regression.
  
 What the Project Does:
